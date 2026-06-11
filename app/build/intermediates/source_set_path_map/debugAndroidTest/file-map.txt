@@ -1,0 +1,4 @@
+com.parkwalker.test.app-androidTest-0 C:\Users\Jesin.C\Downloads\ParkWalker\app\build\generated\res\resValues\androidTest\debug
+com.parkwalker.test.app-mergeDebugAndroidTestResources-1 C:\Users\Jesin.C\Downloads\ParkWalker\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.parkwalker.test.app-mergeDebugAndroidTestResources-2 C:\Users\Jesin.C\Downloads\ParkWalker\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.parkwalker.test.app-merged_res-3 C:\Users\Jesin.C\Downloads\ParkWalker\app\build\intermediates\merged_res\debugAndroidTest
